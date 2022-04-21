@@ -1,14 +1,14 @@
 {
-    "status": "idle",
+    "status": "dnd",
 
     "settings": {
         "game": {
-            "name": "Apex Legends",
-            "applicationID": "957716304427618474",
+            "name": "Coffee",
+            "applicationID": "941983806032846868",
             "state": " ",
             "details": " ",
             "largeImageKey": "large",
-            "largeImageText": "apex",
+            "largeImageText": "20220313_095249",
             "startTimestamp": "",
             "endTimestamp": ""
         },
